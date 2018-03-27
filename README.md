@@ -12,6 +12,8 @@
         src="https://f-droid.org/badge/get-it-on.png" />
         </a>
         </p>
+        
+![license](https://img.shields.io/github/license/mashape/apistatus.svg)        
 
 Generate and compare hashes / checksums from files with this app.
 
