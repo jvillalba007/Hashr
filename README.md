@@ -3,9 +3,14 @@
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.jvillalba.hashr">
     <img alt="Get it on Google Play"
-        height="80"
+        height="70"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
-</a>  
+</a> 
+    <a href="">
+    <img alt="Get it on Amazon App Store"
+        height="70"
+        src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appsstore-us-black-v2.png" />
+        </a>
 <a href="">
     <img alt="Get it on F-Droid"
         height="80"
