@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Hashr MD</string>
+    <string name="title_hash">Hash from file</string>
+    <string name="title_activity_about">About Hashr MD</string>
+    <string name="about">This app is licensed under GPLv3 or later.\nhttp://www.gnu.org/licenses/\n\n
+        Thanks To:\nCopyright © 2015 Kodejak
+        \n\nOriginal Code:\n https://github.com/kodejak/Hashr/\n
+        \nFork Code:\nhttps://github.com/fighthawkarg/Hashr/\n\n
+        Donate: paypal.me/fightinghawk</string>
+    <string name="copyright">Copyright © 2018 Javier Villalba</string>
+    <string name="icon_license">App Icon by Icons8.com</string>
+</resources>
