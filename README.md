@@ -13,8 +13,6 @@
         </a>
         </p>
         
-![license](https://img.shields.io/github/license/mashape/apistatus.svg)        
-
 Generate and compare hashes / checksums from files with this app.
 
 This can be MD5, SHA-1 and SHA-256. Currently must be a file manager installed to open files.
