@@ -1,15 +1,15 @@
+
+# Hashr Material Design
 ![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg?style=social)
 ![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=social)
-# Hashr Material Design
-
 
 <p align="left">
-<a href="https://play.google.com/store/apps/details?id=com.jvillalba.hashr" target="blank">
+<a href="https://play.google.com/store/apps/details?id=com.jvillalba.hashr">
     <img alt="Get it on Google Play"
         height="80"
         src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" />
 </a>  
-<a href="" target="blank">
+<a href="">
     <img alt="Get it on F-Droid"
         height="80"
         src="https://f-droid.org/badge/get-it-on.png" />
