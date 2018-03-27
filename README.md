@@ -1,8 +1,5 @@
 
 # Hashr Material Design
-[![GitHub top language](https://img.shields.io/github/languages/top/badges/shields.svg?style=for-the-badge)](https://github.com/fighthawkarg/Hashr)
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge)](https://github.com/fighthawkarg/Hashr/blob/master/LICENSE)
-
 <p align="left">
 <a href="https://play.google.com/store/apps/details?id=com.jvillalba.hashr">
     <img alt="Get it on Google Play"
