@@ -11,11 +11,6 @@
         height="70"
         src="https://images-na.ssl-images-amazon.com/images/G/01/mobile-apps/devportal2/res/images/amazon-appsstore-us-black-v2.png" />
         </a>
-<a href="">
-    <img alt="Get it on F-Droid"
-        height="80"
-        src="https://f-droid.org/badge/get-it-on.png" />
-        </a>
         </p>
         
 Generate and compare hashes / checksums from files with this app.
